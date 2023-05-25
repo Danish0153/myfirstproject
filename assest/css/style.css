@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../img/banner.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.collapse ul li{
+    font-family: serif;
+    padding-top: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: .2em;
+    
+}
+
+.icon{
+    word-spacing: 30px;
+}
+
+.heading h1{
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.heading h6{
+    color: white;
+    display: block;
+    margin: 0 0 17px;
+    box-sizing: border-box;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 15%;
+    
+}
+
+
+.col-6 h3{
+    margin: 11px 0 0;
+    display: block;
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 80px;
+    margin-top: 10%;
+    line-height: 1.310344827586207em;
+    letter-spacing: .13em;
+    
+}
+.col-6 p{
+    margin-left: 80px;
+    margin-top: 30px;
+    
+}
+.col-6 img{
+    margin-left: 80px;
+    margin-top: 10%;
+
+}
+.sec-01{
+    background-image: url("../img/banner2.jpg.jpg");
+    width: auto;
+    height: 90vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-position: center center;
+}
+
+.sec-01 h1{
+    padding-top: 220px;
+    height: 1.1em;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 1em;
+    font-family: serif;
+    vertical-align: middle;
+    text-align: center;
+    
+}
+
+.btn{
+    background-color: transparent;
+    font-family: inherit;
+    vertical-align: middle;
+    font-size: 12px;
+    line-height: 1.2em;
+    letter-spacing: .35em;
+    font-weight: 700;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding: 18px 46px 16px;
+    
+}
+
+.heading h3{
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 28px;
+    letter-spacing: .13em;
+}
+
+.container-fluid{
+    padding: 100px;
+    
+} 
+
+.footer-heading{
+    font-size: 12px;
+    line-height: 1.5em;
+    font-weight: 700;
+    margin:0 0 25px;
+    letter-spacing: .35em;
+    
+}
